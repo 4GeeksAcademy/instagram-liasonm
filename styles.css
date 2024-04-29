@@ -1,0 +1,25 @@
+body{
+    background: grey;
+    margin: 0;
+}
+
+.container{
+    background-color: white;
+    width: 40%;
+    margin: 20px auto;
+    padding-bottom: 20px;
+}
+header{
+    color: black;
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+}
+img{
+    width: 100%;
+}
+.post-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
